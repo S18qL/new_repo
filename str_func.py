@@ -1,5 +1,5 @@
 def to_up(s: str):
-    "new description from pycharm"
+    "get string and return this string in uppercase"
     return s.upper()
 
 
